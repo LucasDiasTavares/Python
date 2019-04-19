@@ -1,0 +1,10 @@
+nota1 = input ("Digite a primeira nota: ")
+nota2 = input ("Digite a segunda nota: ")
+nota3 = input ("Digite a terceira nota: ")
+nota4 = input ("Digite a quarta nota: ")
+n1 = int(nota1)
+n2 = int (nota2)
+n3 = int(nota3)
+n4 = int (nota4)
+media = (n1+n2+n3+n4)/4
+print ("A média aritmética é ", media)
